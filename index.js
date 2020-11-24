@@ -16,7 +16,7 @@ const info = require("./lib/info.js");
 const BotName = 'JSBOT☄'; 
 const instagram = 'https://instagram.com/jedi_shop'; 
 
-const kapanbotaktif = 'Jam 9:30'; 
+const kapanbotaktif = 'JIKA OWNER AKTIF'; 
 
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
