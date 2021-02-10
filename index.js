@@ -47,7 +47,7 @@ conn.on('qr', qr =>
 {
    qrcode.generate(qr,
    {
-      small: true
+      small: false 
    });
    console.log(`[ ${moment().format("HH:mm:ss")} ] Scan kode qr dengan whatsapp!`);
 });
