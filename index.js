@@ -13,8 +13,8 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'JSBOT☄'; 
-const instagram = 'https://instagram.com/jedi_team_'; 
+const BotName = 'JSBOT'; 
+const instagram = `ndak ada'; 
 
 const kapanbotaktif = 'JIKA OWNER AKTIF'; 
 
